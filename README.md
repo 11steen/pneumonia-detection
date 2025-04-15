@@ -42,3 +42,10 @@ The chest X-ray dataset includes two classes:
 
 ```bash
 streamlit run app.py
+
+## 🙋‍♀️ Author
+
+**Sakshi Dubey**  
+B.Tech | AI & Data Science  
+[LinkedIn](https://www.linkedin.com/in/sakshi-dubey-0127482a5/) | [GitHub](https://github.com/11steen)
+
